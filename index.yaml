@@ -3,7 +3,7 @@ entries:
   mywordpress:
   - apiVersion: v2
     appVersion: 4.16.0
-    created: "2020-12-22T08:56:56.977018568Z"
+    created: "2020-12-22T09:01:28.306053867Z"
     description: Helm chart to install wordpress and mysql with pvcs
     digest: fbf63c2ffa2b96e0a8cd35c2aa8f0c57ba999ab7dbc79350ff2fed58c77effad
     name: mywordpress
@@ -11,4 +11,15 @@ entries:
     urls:
     - mywordpress-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-22T08:56:56.976344792Z"
+  tempchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-22T09:01:28.306270842Z"
+    description: A Helm chart for Kubernetes
+    digest: b39ccf6f32afdfc7128efe2a007f25addd75b8fd96ba8bdf904a97e722dd379e
+    name: tempchart
+    type: application
+    urls:
+    - tempchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-22T09:01:28.305427595Z"
