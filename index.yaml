@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mywordpress:
+  - apiVersion: v2
+    appVersion: 4.16.0
+    created: "2020-12-22T08:56:56.977018568Z"
+    description: Helm chart to install wordpress and mysql with pvcs
+    digest: fbf63c2ffa2b96e0a8cd35c2aa8f0c57ba999ab7dbc79350ff2fed58c77effad
+    name: mywordpress
+    type: application
+    urls:
+    - mywordpress-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-22T08:56:56.976344792Z"
